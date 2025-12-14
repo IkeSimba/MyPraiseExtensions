@@ -1,9 +1,8 @@
 {
   "name": "MyPraise GPT",
-  "version": "1.0.0",
-  "icloud_install_url": "https://www.icloud.com/shortcuts/6639eb5377204d389e6f32c816ef0c48",
+  "target_shortcut_name": "MyPraise GPT",
+  "version": "12/25/1",
+  "icloud_install_url": "https://www.icloud.com/shortcuts/...",
   "min_ios": "17.0",
-  "changelog": [
-    "Initial public release"
-  ]
+  "changelog": ["..."]
 }
