@@ -1,8 +1,8 @@
 {
   "name": "PhotoCollage",
   "target_shortcut_name": "PhotoCollage",
-  "version": "12141+",
-  "icloud_install_url": "https://www.icloud.com/shortcuts/6639eb5377204d389e6f32c816ef0c48",
+  "version": "12250",
+  "icloud_install_url": "https://www.icloud.com/shortcuts/6cf810db269e4006b0ebc47d9c61c972",
   "min_ios": "17.0",
   "changelog": [
     "Initial PhotoCollage release using MMDDN+ versioning"
